@@ -1,7 +1,5 @@
-# ■サービス名　「GRASS BATTLE」
+# ■サービス名　「[GRASS BATTLE](https://www.grassbattle.com)」
 ![grassbattel](https://github.com/user-attachments/assets/e8562f5c-76ea-45d0-a9cd-d85f5dcbd35d)
-
-## [GRASS BATTLE](https://www.grassbattle.com)
 
 # ■サービス概要
 「GRASS BATTLE」はGitHubのコントリビューションを使用して、自分のコントリビューションと他のユーザーのコントリビューションを可視化できるアプリです。
