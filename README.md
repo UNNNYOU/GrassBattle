@@ -30,8 +30,8 @@
 # ■使用技術
 |　カテゴリー　|　使用技術　|
 | --- | --- |
-|　フロントエンド　| Next.js |
-| バックエンド | Ruby on Rails |
+| フロントエンド　| React / Next.js |
+| バックエンド | Ruby / Ruby on Rails |
 | インフラ　| Vercel / render　　|
 | DB | PostgreSQL |
 | 開発環境 | Docker |
